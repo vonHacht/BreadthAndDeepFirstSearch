@@ -13,7 +13,7 @@ namespace BreadthAndDeepFirstSearch.Test
         [TestMethod]
         public void TestRandomConstructor()
         {
-            var breadthClass = new CreateNodeClass();
+            var breadthClass = new NodeHandler();
 
             var nodes = breadthClass.Nodes;
 

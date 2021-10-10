@@ -73,7 +73,7 @@
     <Compile Include="Graphics\Tree.Designer.cs">
       <DependentUpon>Tree.cs</DependentUpon>
     </Compile>
-    <Compile Include="NodeHandle\CreateNodeClass.cs" />
+    <Compile Include="NodeHandle\NodeHandler.cs" />
     <Compile Include="NodeHandle\Node.cs" />
     <Compile Include="Trace\Log.cs" />
     <Compile Include="Trace\LogMessage.cs" />
