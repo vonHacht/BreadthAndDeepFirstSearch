@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthAndDeepFirstSearch", "BreadthAndDeepFirstSearch\BreadthAndDeepFirstSearch.csproj", "{4A8AB3ED-2D01-4DBC-A4B2-BBDB181B82D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthAndDeepFirstSearch.Test", "BreadthAndDeepFirstSearch.Test\BreadthAndDeepFirstSearch.Test.csproj", "{5DA6817A-AF36-4CCC-8343-5A9AA45ADFBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8AB3ED-2D01-4DBC-A4B2-BBDB181B82D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8AB3ED-2D01-4DBC-A4B2-BBDB181B82D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8AB3ED-2D01-4DBC-A4B2-BBDB181B82D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8AB3ED-2D01-4DBC-A4B2-BBDB181B82D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA6817A-AF36-4CCC-8343-5A9AA45ADFBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA6817A-AF36-4CCC-8343-5A9AA45ADFBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA6817A-AF36-4CCC-8343-5A9AA45ADFBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA6817A-AF36-4CCC-8343-5A9AA45ADFBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1ABF41-331F-45D4-B2AA-2844A254975C}
+	EndGlobalSection
+EndGlobal
